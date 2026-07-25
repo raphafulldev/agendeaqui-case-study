@@ -49,30 +49,22 @@ Working on an established product has given me practical experience reading and 
 
 ## Screenshots
 
-The screenshot gallery is prepared for product images in [`assets/screenshots/`](assets/screenshots/). No screenshots have been fabricated or included yet.
+A selection of real product screens showing the client journey from discovery to booking.
 
-<!-- TODO: Add approved product screenshots, then remove this comment wrapper.
-<p align="center">
-  <img src="assets/screenshots/home.png" alt="AgendeAqui home screen" width="200">
-  <img src="assets/screenshots/search.png" alt="AgendeAqui search screen" width="200">
-  <img src="assets/screenshots/business-profile.png" alt="AgendeAqui business profile" width="200">
-</p>
-
-<p align="center">
-  <img src="assets/screenshots/schedule.png" alt="AgendeAqui schedule screen" width="200">
-  <img src="assets/screenshots/booking.png" alt="AgendeAqui booking screen" width="200">
-  <img src="assets/screenshots/professional-profile.png" alt="AgendeAqui professional profile" width="200">
-</p>
--->
-
-Planned filenames:
-
-- `home.png`
-- `search.png`
-- `business-profile.png`
-- `schedule.png`
-- `booking.png`
-- `professional-profile.png`
+<table>
+  <tr>
+    <td align="center"><strong>Home</strong></td>
+    <td align="center"><strong>Explore</strong></td>
+    <td align="center"><strong>Professional Profile</strong></td>
+    <td align="center"><strong>Schedule</strong></td>
+  </tr>
+  <tr>
+    <td><img src="assets/screenshots/home.png" alt="AgendeAqui home screen" width="220"></td>
+    <td><img src="assets/screenshots/explore.png" alt="AgendeAqui explore screen" width="220"></td>
+    <td><img src="assets/screenshots/professional-profile.png" alt="AgendeAqui professional profile screen" width="220"></td>
+    <td><img src="assets/screenshots/schedule.png" alt="AgendeAqui appointment schedule screen" width="220"></td>
+  </tr>
+</table>
 
 ## Core Features
 
