@@ -171,7 +171,7 @@ This experience has reinforced the importance of connecting engineering decision
 - Website: [agendeaquiapp.com](https://www.agendeaquiapp.com/)
 - Instagram: [@agendeaquiapp](https://www.instagram.com/agendeaquiapp)
 - App Store: https://apps.apple.com/br/app/agendeaqui/id6767692948
-- Google Play: **TODO — add the official link when confirmed**
+- Google Play: https://play.google.com/store/apps/details?id=br.com.agendeaqui.app
 
 ## What This Case Study Demonstrates
 
